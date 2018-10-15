@@ -1,5 +1,9 @@
-uthor: Tim Pope <rxvt-unicodeNOSPAM@tpope.org>
+
+#! /usr/bin/env perl -w
+
+
 #          Bob Farrell <robertanthonyfarrell@gmail.com>
+
 
 #:META:X_RESOURCE:%.launcher:string:default launcher command
 #:META:X_RESOURCE:%.button:string:the button, yeah
